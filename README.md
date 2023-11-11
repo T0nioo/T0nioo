@@ -2,7 +2,7 @@
 
 <h3>📫 • Comment me contacter:</h3>
 <p>
-  <a href="https://discordapp.com/users/841384341275148388">Mon Discord</a> •
+  <a href="https://discordapp.com/users/236655901816127489">Mon Discord</a> •
   <a href="https://twitter.com/ToniooOFF">Mon Twitter</a> •
   <a href="https://github.com/T0nioo">Mon Github</a>
 </p>
